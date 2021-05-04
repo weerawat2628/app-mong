@@ -1,7 +1,7 @@
 # app-mong
 <h1>สัตว์ที่ชอบ</h1>
 สิงโต 
-![image](https://sites.google.com/site/somprasong26361/_/rsrc/1408945356197/singto-lion/438542.jpg)
+![image] (https://sutthiawareekul489.files.wordpress.com/2018/02/1395726048-2048967-o.jpg?w=1000&h=625&crop=1)
 
 <h2>งานอดิเรก</h2>
 ฟังเพลง
